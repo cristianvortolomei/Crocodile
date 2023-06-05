@@ -9,7 +9,6 @@ def main():
     game.start()
 
     game.db_handler.close_connection()
-    print("Thanks for playing Crocodile Explorer! See you next time.")
 
 if __name__ == "__main__":
     main()
