@@ -1,6 +1,4 @@
 import pytest
-
-from utils import gpt3_api
 from game_logic.animal_generator import Animal, generate_animal
 from config import QUESTIONS_PER_GAME
 

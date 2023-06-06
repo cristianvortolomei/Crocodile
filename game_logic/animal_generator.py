@@ -1,6 +1,5 @@
 import random
 import functools
-from difflib import SequenceMatcher
 from .question import Question
 from utils.gpt3_api import generate_text
 from config import QUESTION_TYPES, PRESENTATION_MODE

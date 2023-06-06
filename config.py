@@ -1,4 +1,4 @@
-API_KEY = "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"
+API_KEY = "INSERT_KEY_HERE"
 
 LOCATIONS = [
     "Rainforest",

@@ -1,5 +1,4 @@
 import random
-from .location import Location
 from .animal_generator import generate_animal
 from config import LOCATIONS, QUESTIONS_PER_GAME, TOTAL_MINI_GAMES
 from database.database_handler import DatabaseHandler

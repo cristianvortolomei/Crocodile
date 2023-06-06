@@ -1,4 +1,3 @@
-import sys
 from game_logic.game import Game
 
 def main():
